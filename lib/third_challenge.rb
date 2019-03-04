@@ -14,7 +14,7 @@ def third_challenge
         age: "15",
         status: "alive"
         },
-      :hero_friends => []
+      :hero_friends => [name: "Benolio", age: "17", attitude: "worried"]
    }, 
    :capulet => {
       :patriarch => {
@@ -30,7 +30,7 @@ def third_challenge
         age: "15",
         status: "alive"
         },
-      :heroine_friends => []
+      :heroine_friends => [name: "Mercutio", age: "18", attitude: "hot-headed"]
    }
   }
 
